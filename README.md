@@ -45,6 +45,14 @@ A full-stack web application designed to track and manage personal expenses effi
 
 ## Screenshots
 
+### Desktop View
+![Desktop View](screenshots/desktop_view.png)
+![Desktop View](screenshots/desktop_view2.jpeg)
+
+
+### Desktop View
+![Desktop View](screenshots/mobile_view.jpeg)
+
 
 ### Desktop View (Overview & Dark Mode)
 ![Frontend Overview](screenshots/frontend_overview.png)
