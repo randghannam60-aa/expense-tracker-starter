@@ -8,8 +8,8 @@ A full-stack web application designed to track and manage personal expenses effi
 
 ## Project Links
 
-- **GitHub Repository:** [Your GitHub Repository Link Here]
-- **Demo Video (Google Drive):** [Your Google Drive Video Link Here]
+- **GitHub Repository:**[(https://github.com/randghannam60-aa/expense-tracker-starter.git)]
+ - **Demo Video (Google Drive):** [(https://drive.google.com/file/d/1sRU20EwARmj0LCi5663N0WBbqI7UdP9_/view?usp=sharing)]
 
 ---
 
@@ -50,15 +50,9 @@ A full-stack web application designed to track and manage personal expenses effi
 ![Desktop View](screenshots/desktop_view2.jpeg)
 
 
-### Desktop View
-![Desktop View](screenshots/mobile_view.jpeg)
+### mobile View
+![mobile View](screenshots/mobile_view.jpeg)
 
-
-### Desktop View (Overview & Dark Mode)
-![Frontend Overview](screenshots/frontend_overview.png)
-
-### Validation & Error Handling
-![Frontend Validation](screenshots/frontend_validation.png)
 
 ---
 
